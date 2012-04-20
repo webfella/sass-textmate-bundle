@@ -73,8 +73,16 @@
 		<dict>
 			<key>begin</key>
 			<string>/\*</string>
+			<key>captures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.sass</string>
+				</dict>
+			</dict>
 			<key>end</key>
-			<string>\*/|$</string>
+			<string>\*/</string>
 			<key>name</key>
 			<string>comment.block.sass</string>
 		</dict>
