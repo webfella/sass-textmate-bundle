@@ -23,4 +23,21 @@ cd ~/Library/"Application Support"/TextMate/Bundles/
 
 if that directory wasn't found, you'll need to create it, then:
 
-git clone git://github.com/webfella/sass-textmate-bundle.git "Ruby-Saas-Alternative-Syntax.tmbundle"
+git clone git://github.com/webfella/sass-textmate-bundle.git "Ruby-Sass-Alternative-Syntax.tmbundle"
+
+SUBLIME TEXT 2
+------------------------------------
+
+The syntax highlighting is also compatable with Sublime Text 2
+
+To enable it in the editor, clone the repo
+
+git clone git://github.com/webfella/sass-textmate-bundle.git "SASS"
+
+Once checked out, copy the following file: Syntaxes/SASS.tmLanguage
+
+and move to the directory below
+
+~/Library/"Application Support"/"Sublime Text 2"/Packages/SASS/Syntaxes/
+
+Easy peasy
