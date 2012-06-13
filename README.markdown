@@ -4,6 +4,7 @@ SASS Syntax highlighting for Textmate & Sublime Text 2
 Enables Syntax highlighting for those of you how prefer the alternative [SASS](http://sass-lang.com/) Syntax:
 
 **SASS**
+
     $black: #333
     .pagination
       margin: 10px 0 5px
@@ -19,6 +20,7 @@ Enables Syntax highlighting for those of you how prefer the alternative [SASS](h
 Also supports the .scss syntax, introduced in SASS V3.
 
 **SCSS**
+
     $black: #333;
     .pagination {
       margin: 10px 0 5px ;
